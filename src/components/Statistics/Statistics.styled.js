@@ -4,6 +4,7 @@ export const SectionStatistic = styled.section`
 width: 400px;
 text-align: center;
 margin: 0 auto;
+margin-top: 40px;
 `
 
 export const Title = styled.h2`

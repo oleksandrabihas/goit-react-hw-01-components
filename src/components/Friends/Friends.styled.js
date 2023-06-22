@@ -1,10 +1,9 @@
 import styled from 'styled-components';
 
 export const FriendsList = styled.ul`
-  padding-top: 10px;
-  padding-bottom: 10px;
   width: 400px;
   margin: 0 auto;
+  margin-top: 40px;
   text-align: center;
   display: flex;
   flex-direction: column;
