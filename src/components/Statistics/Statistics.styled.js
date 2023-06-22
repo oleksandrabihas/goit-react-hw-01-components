@@ -30,6 +30,7 @@ export const Item = styled.li`
   padding-bottom: 8px;
   background-color: ${props => props.backgroundColor};
   width: ${props => 100 / props.itemCount}%;
+
 `;
 
 export const Label = styled.span`
